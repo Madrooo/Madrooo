@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Meu gráfico de contribuições
+## Commits
 
 <!-- pacman -->
 <picture>
