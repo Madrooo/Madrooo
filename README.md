@@ -21,8 +21,6 @@
 
 - 🎓 Cursando Ciência da Computação no IFCE
 - ☁️ Estudando Redes de Nuvem e DevOps por conta própria (Capacita Brasil + labs práticos na AWS)
-- 🌱 Sempre buscando aprender algo novo fora da grade da faculdade
-- 🎮 Nas horas vagas, jogando Warframe
 
 ---
 
