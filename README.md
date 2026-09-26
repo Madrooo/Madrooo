@@ -1,7 +1,5 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-<h1 align="center">Olá, eu sou o Matheus 👋</h1>
-
 <p align="center">
   Estudante de Ciência da Computação (5º semestre) no IFCE | Ceará, Brasil
 </p>
