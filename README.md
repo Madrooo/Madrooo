@@ -27,10 +27,6 @@
 **[PilatesLib](https://github.com/Madrooo)** — biblioteca digital de exercícios de Pilates com ficha clínica completa (execução, cues, indicações, contraindicações, progressões e regressões).
 `React` `TypeScript` `Vite` `TailwindCSS v4` `React Router` `TanStack Query` `Supabase`
 
-**Treino em Nuvem** — roadmap de 30 dias de estudo autodirigido em Cloud/DevOps, com foco em entrada no mercado como júnior.
-
-**Labs de AWS (VPC, EC2, Redes)** — laboratórios práticos de nuvem com relatórios escritos, parte da trilha de Redes de Nuvem.
-
 **Cardápio Digital** — sistema de cardápio digital para uso real de um restaurante da família, com painel administrativo.
 `React` `TypeScript` `Supabase`
 
