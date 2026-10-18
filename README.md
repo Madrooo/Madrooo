@@ -27,8 +27,8 @@
 **[PilatesLib](https://github.com/Madrooo)** — biblioteca digital de exercícios de Pilates com ficha clínica completa (execução, cues, indicações, contraindicações, progressões e regressões).
 `React` `TypeScript` `Vite` `TailwindCSS v4` `React Router` `TanStack Query` `Supabase`
 
-**Cardápio Digital** — sistema de cardápio digital para uso real de um restaurante da família, com painel administrativo.
-`React` `TypeScript` `Supabase`
+**[Cardápio Digital](https://nuticardapio.netlify.app/)** — sistema de cardápio digital desenvolvido para uso real em um restaurante da família, com painel administrativo para gerenciamento do conteúdo.
+ `React` `TypeScript` `Supabase`
 
 ---
 
